@@ -36,3 +36,5 @@ print("Thank you for visiting my repository!")
 ```
 
 > Thank you for visiting my repository! If you found this repository useful, please don't forget to give it a star. If you have any questions, feel free to open an issue or contact me on [LinkedIn](https://www.linkedin.com/in/azarya-yehezkiel/).
+
+<img src="./src/images/Logo_Rakamin_IDX_Partners.png" align="center">
